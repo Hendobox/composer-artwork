@@ -1,0 +1,3 @@
+ $ cd composer-artwork/
+$ echo "# composer-artwork" >> README.md
+$ git init
